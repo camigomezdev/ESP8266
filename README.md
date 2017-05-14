@@ -7,4 +7,4 @@ __Programming Languages:__
 
 ![Módulo WeMos D1](https://github.com/camigomez35/ESP8266/blob/master/d1_2.jpg)
 
-![App](https://github.com/camigomez35/ESP8266/blob/master/MyApp.PNG)
+![App](https://github.com/camigomez35/ESP8266/blob/master/myApp.PNG)
