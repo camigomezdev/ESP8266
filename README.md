@@ -5,6 +5,6 @@ __Programming Languages:__
 * Arduino - IDE: Arduino
 * Java - IDE: Android Studio
 
-![Módulo WeMos D1](d1_2.PNG)
+![Módulo WeMos D1](https://github.com/camigomez35/ESP8266/blob/master/d1_2.jpg)
 
-![App](App.jpg)
+![App](https://github.com/camigomez35/ESP8266/blob/master/App.jpg)
